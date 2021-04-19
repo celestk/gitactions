@@ -5,7 +5,7 @@ Hi, this is my GitActions project.
 A Telegram Bot will receive a random Programming Joke 3 times a day.
 
 <h4>1. Create the Node JS app</h4>
-<ul>- Save tips in a json file</ul>
+<ul>- Save jokes in a json file</ul>
 <ul>- Write javascript code to extract a random joke</ul>
 
 
