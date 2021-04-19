@@ -25,5 +25,5 @@ A Telegram Bot will receive a random Programming Joke 3 times a day.
 <ul>- store telegram API key and teltegram id in github secrets</ul>
 <ul>- schdule to run on 9am, 12pm and 5pm</ul>
 
-Result:
-<img src="gitactions/Telegram.jpg">
+Result:<br>
+<img src="https://raw.githubusercontent.com/celestk/gitactions/main/Telegram.jpg" width=300 height=239>
