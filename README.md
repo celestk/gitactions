@@ -2,11 +2,11 @@
 
 Hi, this is my GitActions project.
 
-A Telegram Bot will receive a random Programming Tip (from the book "Pragmatic Programmer") at a scheduled time 3 times a day.
+A Telegram Bot will receive a random Programming Joke 3 times a day.
 
 <h4>1. Create the Node JS app</h4>
 <ul>- Save tips in a json file</ul>
-<ul>- Write javascript code to extract a random tip</ul>
+<ul>- Write javascript code to extract a random joke</ul>
 
 
 <h4>2. Create Telegram Bot</h4>
