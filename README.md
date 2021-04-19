@@ -24,3 +24,6 @@ A Telegram Bot will receive a random Programming Joke 3 times a day.
 <ul>- in yaml file, install node, run index.js and set env to extract keys from secrets</ul>
 <ul>- store telegram API key and teltegram id in github secrets</ul>
 <ul>- schdule to run on 9am, 12pm and 5pm</ul>
+
+Result:
+<img src="gitactions/Telegram.jpg">
