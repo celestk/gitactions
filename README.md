@@ -13,7 +13,7 @@ A Telegram Bot will receive a random Programming Joke 3 times a day.
 <ul>- Chat with @BotFather to create a bot</ul>
 <ul>- Save API keys and your telegram userID</ul>
 
-<h4>3. Install node-telegram-not-api and dotenv</h4>
+<h4>3. Install node-telegram-bot-api and dotenv</h4>
 <ul>- Install both packages using yarn/npm</ul>
 <ul>- Create a .env file to save the telegram token and telegram chat id</ul>
 <ul>- Add "send message" function to the code</ul>
